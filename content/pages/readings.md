@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cd913ec1-16dc-998c-2d24-3999c95f587d
 ---
@@ -39,7 +42,7 @@ Sections 6.1–6.3.
 {{< tdopen >}}
 L2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 Chapter 8: Estimation of Parameters and Fitting of Probability Distributions
 {{< tdclose >}}
 {{< tdopen >}}
@@ -126,7 +129,7 @@ Section 8.6.
 {{< tdopen >}}
 L9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 9: Testing Hypotheses and Assessing Goodness of Fit
 {{< tdclose >}}
 {{< tdopen >}}
@@ -174,7 +177,7 @@ No Readings: Exam 2
 {{< tdopen >}}
 L12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 10: Summarizing Data
 {{< tdclose >}}
 {{< tdopen >}}
@@ -195,7 +198,7 @@ Sections 10.5–10.7.
 {{< tdopen >}}
 L14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 14: Linear Least Squares
 {{< tdclose >}}
 {{< tdopen >}}

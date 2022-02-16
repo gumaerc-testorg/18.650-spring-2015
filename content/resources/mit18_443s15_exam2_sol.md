@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This is a file that contains information regarding exam 2 solution. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-443-statistics-for-applications-spring-2015/73d87f2cdc96f620c535ed1b1ab1515c_MIT18_443S15_Exam2_Sol.pdf
+file: /media/courses/18-443-statistics-for-applications-spring-2015/73d87f2cdc96f620c535ed1b1ab1515c_MIT18_443S15_Exam2_Sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Statistics for Applications Exam 2 Solution
 uid: 73d87f2c-dc96-f620-c535-ed1b1ab1515c

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: R Scripts and Projects
 uid: b91d782c-32fe-e884-1640-42d14c5c5d5e
 ---

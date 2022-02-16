@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding topic overview.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-443-statistics-for-applications-spring-2015/86a467b8ddfc8cfb8058aa6f1d0397a8_MIT18_443S15_LEC_Overview.pdf
+file: /media/courses/18-443-statistics-for-applications-spring-2015/86a467b8ddfc8cfb8058aa6f1d0397a8_MIT18_443S15_LEC_Overview.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Statistics for Applications Lecture Notes
 uid: 86a467b8-ddfc-8cfb-8058-aa6f1d0397a8
