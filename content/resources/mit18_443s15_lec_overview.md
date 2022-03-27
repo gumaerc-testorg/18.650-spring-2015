@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60a15075-0017-5827-ac55-146fe8abf74d
 resourcetype: Document
 title: Statistics for Applications Lecture Notes
 uid: 86a467b8-ddfc-8cfb-8058-aa6f1d0397a8

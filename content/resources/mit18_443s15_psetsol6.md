@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 53f6a709-2571-d03a-f08d-15390d5782f1
 resourcetype: Document
 title: Statistics for Applications PsetSol6
 uid: 15ed92b5-b462-feb1-878e-3fe0f689c0a4

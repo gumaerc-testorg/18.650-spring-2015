@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 53f6a709-2571-d03a-f08d-15390d5782f1
 resourcetype: Other
 title: MIT18_443S15_PsetSol8.zip
 uid: 35b9508b-5c6e-59c1-04bd-d9ff68ad039d

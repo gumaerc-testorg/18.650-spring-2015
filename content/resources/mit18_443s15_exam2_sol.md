@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d6713546-ecc4-604e-195c-75d12b86c95f
 resourcetype: Document
 title: Statistics for Applications Exam 2 Solution
 uid: 73d87f2c-dc96-f620-c535-ed1b1ab1515c

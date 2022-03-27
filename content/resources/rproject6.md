@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: R Scripts and Projects
 parent_type: CourseSection
+parent_uid: b91d782c-32fe-e884-1640-42d14c5c5d5e
 resourcetype: Other
 title: RProject6.zip
 uid: 7c4b5e88-d582-ca43-b3be-90cffae545c6
