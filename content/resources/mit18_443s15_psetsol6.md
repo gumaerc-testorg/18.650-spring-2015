@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding problem set solution
   6.
-file: /media/courses/18-443-statistics-for-applications-spring-2015/15ed92b5b462feb1878e3fe0f689c0a4_MIT18_443S15_PsetSol6.pdf
+file: /courses/18-443-statistics-for-applications-spring-2015/15ed92b5b462feb1878e3fe0f689c0a4_MIT18_443S15_PsetSol6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Statistics for Applications PsetSol6
 uid: 15ed92b5-b462-feb1-878e-3fe0f689c0a4
 ---
+This is a file that contains information regarding problem set solution 6.
+

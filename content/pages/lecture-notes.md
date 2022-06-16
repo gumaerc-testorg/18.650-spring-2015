@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, a course overview,
+  and the lecture notes for each session of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,9 +29,9 @@ L1
 {{< tdopen >}}
 
 
-Statistics for Applications [Course Overview (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec_overview)
+Statistics for Applications {{% resource_link 86a467b8-ddfc-8cfb-8058-aa6f1d0397a8 "Course Overview (PDF)" %}}
 
-[Distributions Derived from Normal Distribution (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec1)
+{{% resource_link d49600c6-145f-78b8-e44f-71319aeb2292 "Distributions Derived from Normal Distribution (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -40,7 +42,7 @@ Statistics for Applications [Course Overview (PDF)]({{< baseurl >}}/resources/mi
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-[Statistical Models: Classic One-sample Distribution Models (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec2)
+{{% resource_link 6408c60b-d43d-4da0-5fc6-837a12341c29 "Statistical Models: Classic One-sample Distribution Models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +51,7 @@ L2
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-[Parameter Estimation: Method of Moments (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec3)
+{{% resource_link f215f0fe-4537-a33b-3b61-743af707078f "Parameter Estimation: Method of Moments (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +60,7 @@ L3
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-[Parameter Estimation: Maximum Likelihood (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec4)
+{{% resource_link 2a08e2ff-a8c8-7f31-87d3-969cc24c168b "Parameter Estimation: Maximum Likelihood (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ L4
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-[Maximum Likelihood: Large Sample Theory (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec5)
+{{% resource_link 6aa8f060-093a-d081-f930-b31592274962 "Maximum Likelihood: Large Sample Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ L5
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-[Bootstrap Confidence Intervals (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec6)
+{{% resource_link a5bffcc1-d9a0-0836-a5b8-3346318cef19 "Bootstrap Confidence Intervals (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +87,7 @@ L6
 L7
 {{< tdclose >}}
 {{< tdopen >}}
-[Sufficiency (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec7)
+{{% resource_link 27f9a8f9-aaac-fe7f-eb94-75af1ec13a79 "Sufficiency (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +96,7 @@ L7
 L8
 {{< tdclose >}}
 {{< tdopen >}}
-[Parameter Estimation: Bayesian Approach (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec8)
+{{% resource_link 7b474952-dc94-6710-9cdb-cc132499bb4f "Parameter Estimation: Bayesian Approach (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ L8
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-[Hypothesis Testing (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec9)
+{{% resource_link ed6f6103-7a70-5bff-87ed-90d252540b0a "Hypothesis Testing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +114,7 @@ L9
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-[Hypothesis Testing II (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec10)
+{{% resource_link 9f17e8bd-5413-37e4-b9ce-be8370f401d5 "Hypothesis Testing II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ L10
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-[Assessing Goodness of Fit (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec11)
+{{% resource_link 06daf6d7-8e7e-b046-5d6b-b53e8f96b2ff "Assessing Goodness of Fit (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +132,7 @@ L11
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-[Summarizing Data (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec12)
+{{% resource_link 60566d88-2db2-26c2-f71b-081d9fbc139d "Summarizing Data (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ L12
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-[Summarizing Data: Examples and Dynamic Graphics (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec13)
+{{% resource_link 4d667dc5-c38d-f7bf-9f0d-67c9fdee6595 "Summarizing Data: Examples and Dynamic Graphics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +150,7 @@ L13
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-[Regression Analysis (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec14)
+{{% resource_link 2899653f-8b88-4645-bf4c-e06ac95a5b85 "Regression Analysis (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +159,7 @@ L14
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-[Regression Analysis II (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec15)
+{{% resource_link 986e5778-fc7d-3a4c-2bb4-fdf8ceb4c28d "Regression Analysis II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +168,7 @@ L15
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-[Comparing Independent Samples and ANOVA (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec16)
+{{% resource_link 196291cd-8fdf-5031-a34e-766fefdf104f "Comparing Independent Samples and ANOVA (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ L16
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-[Analysis of Categorical Data (PDF)]({{< baseurl >}}/resources/mit18_443s15_lec17)
+{{% resource_link c9f6cf54-8a6e-918d-3dc7-98fc0d7c8170 "Analysis of Categorical Data (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

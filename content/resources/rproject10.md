@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-443-statistics-for-applications-spring-2015/26bdf414f67c94f0dacc34d1c603e0df_Rproject10.zip
+file: /courses/18-443-statistics-for-applications-spring-2015/26bdf414f67c94f0dacc34d1c603e0df_Rproject10.zip
 file_type: application/zip
 learning_resource_types: []
 ocw_type: OCWFile
