@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-spring-2015/aafa77b5ca40f90ba3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

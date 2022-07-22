@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-spring-2015/73d87f2cdc96f620c5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Statistics for Applications Exam 2 Solution
 uid: 73d87f2c-dc96-f620-c535-ed1b1ab1515c
 ---
 This is a file that contains information regarding exam 2 solution. 
-

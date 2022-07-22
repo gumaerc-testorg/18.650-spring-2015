@@ -6,6 +6,7 @@ file: /courses/18-443-statistics-for-applications-spring-2015/b0206f0802d64f7ffa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Statistics for Applications PsetSol2
 uid: b0206f08-02d6-4f7f-fadc-912500272167
 ---
 This is a file that contains information regarding problem set solution 2.
-
