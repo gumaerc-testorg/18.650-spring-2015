@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides instructions for downloading and using the software
+  environment used for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: R Scripts and Projects
 uid: b91d782c-32fe-e884-1640-42d14c5c5d5e
 ---
@@ -50,7 +54,7 @@ L1
 [R Project 1: Distributions Derived from the Normal Distribution](/ans7870/18/18.443/s15/projects/Rproject1_script1.html)
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 1 (ZIP)]({{< baseurl >}}/resources/rproject1) (This file contains: 1 .r file.)
+{{% resource_link a05efd3e-0f69-cab5-2324-f22c9779e01a "R Project 1 (ZIP)" %}} (This file contains: 1 .r file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +72,7 @@ L5
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 2 (ZIP)]({{< baseurl >}}/resources/rproject2) (This file contains: 2 .r files.)
+{{% resource_link 47e1b77b-e557-ef80-9c4a-581da464efec "R Project 2 (ZIP)" %}} (This file contains: 2 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ R Project 3: Hardy Weinberg Model / Rayleigh Distributions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 3 (ZIP)]({{< baseurl >}}/resources/rproject3) (This file contains: 3 .r files.)
+{{% resource_link 3d7d9ff4-be99-9fc6-e687-266fb8b75bb4 "R Project 3 (ZIP)" %}} (This file contains: 3 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +118,7 @@ R Project 4: Bayesian Estimation
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 4 (ZIP)]({{< baseurl >}}/resources/rproject4) (This file contains: 2 .r files.)
+{{% resource_link 1dd06484-bc95-7905-84f4-da5512cf8fa8 "R Project 4 (ZIP)" %}} (This file contains: 2 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +140,7 @@ L9
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 5 (ZIP)]({{< baseurl >}}/resources/rproject5) (This file contains: 4 .r files.)
+{{% resource_link 754eff19-a244-3215-be92-3d2cf534862a "R Project 5 (ZIP)" %}} (This file contains: 4 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +160,7 @@ R Project 6: Hypothesis Testing II
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 6 (ZIP)]({{< baseurl >}}/resources/rproject6) (This file contains: 2 .r files.)
+{{% resource_link 7c4b5e88-d582-ca43-b3be-90cffae545c6 "R Project 6 (ZIP)" %}} (This file contains: 2 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +180,7 @@ R Project 7: Assessing Goodness of Fit
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 7 (ZIP)]({{< baseurl >}}/resources/rproject7) (This file contains: 6 .r files.)
+{{% resource_link 0a5f6696-6ec2-e555-38c2-7a9d61ef133b "R Project 7 (ZIP)" %}} (This file contains: 6 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ R Project 8: Summarizing Data
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 8 (ZIP)]({{< baseurl >}}/resources/rproject8) (This file contains: 5 .r files.)
+{{% resource_link cb8e28ee-e57e-f08b-cef3-50ad6395dec0 "R Project 8 (ZIP)" %}} (This file contains: 5 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +226,7 @@ R Project 9: Regression Analysis of CAPM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 9 (ZIP)]({{< baseurl >}}/resources/rproject9) (This file contains: 2 .r files.)
+{{% resource_link 0aac7613-22c4-082e-4531-410c45b3b308 "R Project 9 (ZIP)" %}} (This file contains: 2 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -242,7 +246,7 @@ R Project 10: Polynomial Regressions and Weighted Regressions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 10 (ZIP)]({{< baseurl >}}/resources/rproject10) (This file contains: 3 .r files.)
+{{% resource_link 26bdf414-f67c-94f0-dacc-34d1c603e0df "R Project 10 (ZIP)" %}} (This file contains: 3 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +266,7 @@ R Project 11: Multiple Comparisons and ANOVA
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 11 (ZIP)]({{< baseurl >}}/resources/rproject11) (This file contains: 2 .r files.)
+{{% resource_link 2372b9fd-169e-2896-a03e-622268f02f4a "R Project 11 (ZIP)" %}} (This file contains: 2 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,7 +282,7 @@ L17
 
 {{< tdclose >}}
 {{< tdopen >}}
-[R Project 12 (ZIP)]({{< baseurl >}}/resources/rproject12) (This file contains: 2 .r files.)
+{{% resource_link 28db7170-7890-6a31-4152-e634280af779 "R Project 12 (ZIP)" %}} (This file contains: 2 .r files.)
 {{< tdclose >}}
 
 {{< trclose >}}
