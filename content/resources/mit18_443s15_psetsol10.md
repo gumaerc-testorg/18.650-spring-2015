@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding problem set solution
   10.
 file: /courses/18-443-statistics-for-applications-spring-2015/724cf00e2f801bc2e0af3adfe8c2d397_MIT18_443S15_PsetSol10.pdf
+file_size: 210238
 file_type: application/pdf
 learning_resource_types:
 - Assignments
