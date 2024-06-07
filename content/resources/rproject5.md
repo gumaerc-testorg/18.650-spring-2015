@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special for project 5.
 file: /courses/18-443-statistics-for-applications-spring-2015/754eff19a2443215be923d2cf534862a_Rproject5.zip
+file_size: 7529
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
