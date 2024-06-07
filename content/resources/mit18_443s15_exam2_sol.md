@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This is a file that contains information regarding exam 2 solution. '
 file: /courses/18-443-statistics-for-applications-spring-2015/73d87f2cdc96f620c535ed1b1ab1515c_MIT18_443S15_Exam2_Sol.pdf
+file_size: 500059
 file_type: application/pdf
 learning_resource_types:
 - Exams

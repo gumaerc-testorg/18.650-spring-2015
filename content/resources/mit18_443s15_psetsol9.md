@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-443-statistics-for-applications-spring-2015/aafa77b5ca40f90ba38a158b99582408_MIT18_443S15_PsetSol9.pdf
+file_size: 238800
 file_type: application/pdf
 learning_resource_types:
 - Assignments

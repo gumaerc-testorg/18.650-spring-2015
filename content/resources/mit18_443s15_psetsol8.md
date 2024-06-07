@@ -3,6 +3,7 @@ content_type: resource
 description: This is a special file that contains information regarding problem set
   solution 8.
 file: /courses/18-443-statistics-for-applications-spring-2015/35b9508b5c6e59c104bdd9ff68ad039d_MIT18_443S15_PsetSol8.zip
+file_size: 1532526
 file_type: application/zip
 learning_resource_types:
 - Assignments
