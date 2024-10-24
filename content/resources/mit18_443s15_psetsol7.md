@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-443-statistics-for-applications-spring-2015/188fe26e73a60773bc0a72c8ecc41717_MIT18_443S15_PsetSol7.pdf
+file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-spring-2015/188fe26e73a60773bc0a72c8ecc41717_MIT18_443S15_PsetSol7.pdf
 file_size: 230240
 file_type: application/pdf
 learning_resource_types:
