@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a file that contains information regarding exam 3 table. '
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-spring-2015/ed1464b2271e16ab382cde1ac393c5f1_MIT18_443S15_Exam3Table.pdf
+file: /courses/18-443-statistics-for-applications-spring-2015/ed1464b2271e16ab382cde1ac393c5f1_MIT18_443S15_Exam3Table.pdf
 file_size: 136834
 file_type: application/pdf
 learning_resource_types:

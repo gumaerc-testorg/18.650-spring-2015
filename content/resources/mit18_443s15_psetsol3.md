@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding problem set solution
   7.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-spring-2015/aea4b853ed767c91227ae49af554eada_MIT18_443S15_PsetSol3.pdf
+file: /courses/18-443-statistics-for-applications-spring-2015/aea4b853ed767c91227ae49af554eada_MIT18_443S15_PsetSol3.pdf
 file_size: 304126
 file_type: application/pdf
 learning_resource_types:
