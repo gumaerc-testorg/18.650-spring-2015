@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding topic overview.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-spring-2015/86a467b8ddfc8cfb8058aa6f1d0397a8_MIT18_443S15_LEC_Overview.pdf
+file: /courses/18-443-statistics-for-applications-spring-2015/86a467b8ddfc8cfb8058aa6f1d0397a8_MIT18_443S15_LEC_Overview.pdf
 file_size: 182387
 file_type: application/pdf
 learning_resource_types:
