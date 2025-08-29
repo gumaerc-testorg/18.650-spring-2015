@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special for project 8.
-file: /courses/18-443-statistics-for-applications-spring-2015/cb8e28eee57ef08bcef350ad6395dec0_Rproject8.zip
+file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-spring-2015/cb8e28eee57ef08bcef350ad6395dec0_Rproject8.zip
 file_size: 5328
 file_type: application/zip
 learning_resource_types: []
