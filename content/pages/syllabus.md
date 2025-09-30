@@ -27,14 +27,14 @@ Prerequisite
 Textbook
 --------
 
-Rice, John A. _Mathematical Statistics and Data Analysis_. Duxbury Press, 2006. ISBN: 9780534399429. \[Preview with [Google Books](http://books.google.com/books?id=EKA-yeX2GVgC&printsec=frontcover)\]
+Rice, John A. _Mathematical Statistics and Data Analysis_. Duxbury Press, 2006. ISBN: 9780534399429. \[Preview with {{% resource_link "e1edf46e-d69d-4d97-9eb5-d980a18f8583" "Google Books" %}}\]
 
 Statistics Package
 ------------------
 
-We will use the R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit [The R Project for Statistical Computing site](http://www.r-project.org/).
+We will use the R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit {{% resource_link "1f37250b-8aa8-43bf-aab2-cc6f1d3f31b5" "The R Project for Statistical Computing site" %}}.
 
-We will also use [RStudio](https://www.rstudio.com/products/rstudio/download/), a free and open source integrated development environment (IDE) for R. [RStudio Desktop](https://cran.rstudio.com/), allows the program to run locally as a regular desktop application.
+We will also use {{% resource_link "51fd239b-6c7b-4fd8-bf4d-bbe17f105d73" "RStudio" %}}, a free and open source integrated development environment (IDE) for R. {{% resource_link "5f20b9ea-e072-43fa-a432-8cfbd2e81841" "RStudio Desktop" %}}, allows the program to run locally as a regular desktop application.
 
 Assignments & Exams
 -------------------
