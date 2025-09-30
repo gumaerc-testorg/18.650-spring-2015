@@ -16,9 +16,9 @@ The following instructions apply to executing R scripts in the first R Project. 
 
 1.  Download / Install R and the Rstudio desktop on your computer
 
-[http://www.rstudio.com/products/rstudio/download/](http://www.rstudio.com/products/rstudio/download/)
+{{% resource_link "881a1802-0614-4256-b5f6-a25813b5cfa7" "http://www.rstudio.com/products/rstudio/download/" %}}
 
-[http://cran.rstudio.com/](http://cran.rstudio.com/)
+{{% resource_link "cd9257f1-ef0a-4030-8087-d79ede148feb" "http://cran.rstudio.com/" %}}
 
 4.  Download the compressed folder for the R Project ("rproject1.zip" for Project 1) to your computer and extract the project directory, e.g., "rproject1" (for Project 1).
 5.  Start the R-Studio application. From the top bar of commands
