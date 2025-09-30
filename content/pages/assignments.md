@@ -10,7 +10,7 @@ uid: 53f6a709-2571-d03a-f08d-15390d5782f1
 ---
 
 Most of the problems are assigned from the required textbook:  
-Rice, John A. _Mathematical Statistics and Data Analysis_. Duxbury Press, 2006. ISBN: 9780534399429. \[Preview with [Google Books](http://books.google.com/books?id=EKA-yeX2GVgC&printsec=frontcover)\]
+Rice, John A. _Mathematical Statistics and Data Analysis_. Duxbury Press, 2006. ISBN: 9780534399429. \[Preview with {{% resource_link "e1edf46e-d69d-4d97-9eb5-d980a18f8583" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
